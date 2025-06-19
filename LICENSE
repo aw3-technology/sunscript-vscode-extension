@@ -1,21 +1,24 @@
-MIT License
-
-Copyright (c) 2025 AW3 Technology
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SunScript Community License v1.0
+Copyright © [Year] AW3 Technology, Inc. All Rights Reserved.
+1. Purpose and Grant
+Subject to the terms of this license, AW3 Technology, Inc. ("Licensor") hereby grants you ("Licensee") a non-exclusive, worldwide, royalty-free, revocable license to:
+Use, modify, and distribute the SunScript codebase,
+For educational, academic, research, or non-commercial nonprofit purposes only,
+Provided proper attribution to AW3 Technology, Inc. is included in all copies or substantial portions of the Software.
+2. Commercial Use Restriction
+You may not use the SunScript codebase, or any derivative works thereof, for any commercial purpose, including but not limited to:
+Offering services, products, or tools based on SunScript in exchange for payment or financial gain;
+Incorporating SunScript into a for-profit company’s internal or customer-facing infrastructure;
+Licensing SunScript-derived code under terms more permissive or more restrictive than this license for commercial benefit.
+For commercial licensing, please contact: will.schulz@aw3.tech
+3. Definitions
+“Commercial Purpose” means any use of the Software intended for or resulting in monetary compensation, financial gain, or competitive commercial advantage.
+“Non-Commercial” means not primarily intended for or directed toward commercial advantage or monetary compensation.
+4. Redistribution
+Redistribution of the Software must retain this license and all associated copyright and permission notices.
+5. No Trademark Rights
+This license does not grant any rights to use the trademarks or brand of AW3 Technology, including “SunScript.”
+6. Termination
+Any violation of this license’s terms automatically terminates your rights under it. Upon termination, all copies and derivative works must be destroyed or deleted.
+7. Warranty Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
